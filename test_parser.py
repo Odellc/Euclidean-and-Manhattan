@@ -3,7 +3,6 @@
 # from boolean_parser import parse
 # from sqlalchemy.ext.declarative import as_declarative
 
-
 # example = 'x > 3 and y <= 2 or not z != 5'
 
 # print(res)
